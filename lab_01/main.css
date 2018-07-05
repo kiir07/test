@@ -1,0 +1,48 @@
+    
+* 	
+	{ 
+	margin: 0; 
+	padding: 0; 
+	background: #F5F5F5;
+	}
+	
+h1 
+	{ 
+	font-size: 100%;
+	background: #fc3; /* Цвет фона */
+    border: 1px solid black;  /* Параметры рамки */
+    padding: 20px;
+	margin: ; 
+	}
+
+p 
+	{ 
+	padding: 10px; 
+	font-size: 500%;
+	text-align: center;
+	/* top: 50%; */
+	}
+	
+span
+	{
+	background: #fc3;
+	color:#F5F5F5;
+	font-size: 200%;
+	}
+	
+#left 
+	{ 
+	position: absolute;
+	left: 0; 
+	width: 50%;
+	top: 30%;
+    }
+	
+#right 
+	{ 
+	position: absolute;
+	right: 0; 
+	width: 50%;
+	top: 50%;
+	} 
+   
